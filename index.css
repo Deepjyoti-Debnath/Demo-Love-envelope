@@ -22,7 +22,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("./taylor.jpg");
+    background-image: url("./taylor.webp");
     background-repeat: no-repeat;
     background-size: cover;
     /* background-position and attachment restored to original defaults */
@@ -106,7 +106,7 @@ body::before {
 .envelope-front {
     top: 60px;
     height: 330px;
-    background-image: url("./b1.png");
+    background-image: url("./b1.webp");
     background-size: cover;
     background-repeat: no-repeat;
     transform-origin: top;

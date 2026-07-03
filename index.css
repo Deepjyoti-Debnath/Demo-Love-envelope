@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: style ;
-    src: url(./DancingScript-VariableFont_wght.ttf);
+    src: url(./DancingScript-VariableFont_wght.woff2);
 }
 
 @font-face {
     font-family: Arp ;
-    src: url(./NotoSansMono-VariableFont_wdth\,wght.ttf);
+    src: url(./NotoSansMono-VariableFont_wdth\,wght.woff2);
 }
 
 * {
